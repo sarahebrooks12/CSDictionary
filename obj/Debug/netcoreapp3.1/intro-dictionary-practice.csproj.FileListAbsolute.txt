@@ -1,0 +1,13 @@
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\obj\Debug\netcoreapp3.1\intro-dictionary-practice.csprojAssemblyReference.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\obj\Debug\netcoreapp3.1\intro-dictionary-practice.AssemblyInfoInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\obj\Debug\netcoreapp3.1\intro-dictionary-practice.AssemblyInfo.cs
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\obj\Debug\netcoreapp3.1\intro-dictionary-practice.csproj.CoreCompileInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\bin\Debug\netcoreapp3.1\intro-dictionary-practice.exe
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\bin\Debug\netcoreapp3.1\intro-dictionary-practice.deps.json
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\bin\Debug\netcoreapp3.1\intro-dictionary-practice.runtimeconfig.json
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\bin\Debug\netcoreapp3.1\intro-dictionary-practice.runtimeconfig.dev.json
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\bin\Debug\netcoreapp3.1\intro-dictionary-practice.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\bin\Debug\netcoreapp3.1\intro-dictionary-practice.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\obj\Debug\netcoreapp3.1\intro-dictionary-practice.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\obj\Debug\netcoreapp3.1\intro-dictionary-practice.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\intro-dictionary-practice\obj\Debug\netcoreapp3.1\intro-dictionary-practice.genruntimeconfig.cache
